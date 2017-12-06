@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">loginUMA</string>
+    <string name="facebook_app_id">1763738327261768</string>
+    <string name="fb_login_protocol_scheme">fb1763738327261768</string>
+</resources>
